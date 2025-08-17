@@ -1,4 +1,4 @@
-````markdown
+
 # 🤖 AI Chat & Image Assistant  
 
 An interactive **Streamlit-based AI Assistant** powered by **Google Gemini API** and **LangChain**.  
